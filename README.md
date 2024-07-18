@@ -1,0 +1,2 @@
+# WizardCrypter
+Wizard crypter cracked.
